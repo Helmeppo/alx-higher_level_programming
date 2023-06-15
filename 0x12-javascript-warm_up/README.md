@@ -1,2 +1,1 @@
-Too late JavaScript Code
-Objects, scopes & closures
+Lets go javascript
